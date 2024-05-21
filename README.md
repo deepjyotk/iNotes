@@ -70,3 +70,10 @@ If you would like to contribute to this project, please follow these steps:
 If you have any questions or feedback, feel free to contact me at [dsk7806@nyu.edu].
 
 Thank you for using the Note Making App! Happy note-taking!
+
+## Application Screenshots
+
+<img width="1710" alt="image" src="https://github.com/deepjyotk/phpl/assets/45242325/2dc2a4b7-9b24-4bb2-9428-a6c357c475e2">
+<img width="1708" alt="image" src="https://github.com/deepjyotk/phpl/assets/45242325/6b854a01-1eec-42ea-a943-9db3a5bc4bf4">
+
+
